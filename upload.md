@@ -4,3 +4,5 @@ git push
 
 git clone 주소
 cd 폴더 :들어가기
+
+git pull : 원격의 버전을 가져오기
